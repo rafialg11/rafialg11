@@ -28,8 +28,6 @@ I'm an Information Systems graduate with expertise in building robust APIs using
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafialg11&layout=compact&theme=vision-friendly-dark)](https://github.com/rafialg11/github-readme-stats)
 
-<a href="https://app.daily.dev/rafialg1"><img src="https://api.daily.dev/devcards/v2/rQcp2k5i3Ji1vBbn27svQ.png?type=wide&r=axo" width="325" style="left:0;" alt="Muhamad Rafi Rahmat Alghifari's Dev Card"/></a>
-
 
 ## Thanks for Visiting!
 If you have any questions or would like to collaborate, feel free to reach out!
