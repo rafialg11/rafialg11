@@ -11,30 +11,18 @@
 </div>
 
 ## Hi, I'm [Your Name]! 👋
-I'm a passionate software developer from [Your Location]. I love creating applications that improve everyday life.
-
-![Avatar](https://via.placeholder.com/150)
+I'm an Information Systems graduate with expertise in building robust APIs using Golang. I'm also proficient in full-stack website development using the MERN stack. I'm passionate about utilizing technology to solve real-world challenges and create seamless digital experiences. Currently seeking new opportunities in full-stack development.
 
 ### My Skills:
-- 🌐 Web Development: HTML, CSS, JavaScript, React
-- 🛠️ DevOps: Docker, Kubernetes, Jenkins
-- 📊 Data Science: Python, R, TensorFlow
-
-### Featured Projects:
-- [**Project A**](https://github.com/username/projectA) - A task management web application using React and Node.js.
-- [**Project B**](https://github.com/username/projectB) - Health data analysis using Python and Pandas.
-
-### My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- 🌐 Web Development: HTML, CSS, JavaScript, React, Golang
 
 ### My Other Works:
-- 📝 [My Blog](https://yourblog.com)
-- 📂 [My Portfolio](https://yourportfolio.com)
+- 📝 [My Blog](Under Construction 🏗️)
+- 📂 [My Portfolio](Coming Soon 🚀)
 
 ### Let's Connect!
-- 📧 Email: yourname@domain.com
-- 💼 LinkedIn: [My LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
+- 📧 Email: raffialg11@gmail.com
+- 💼 LinkedIn: [Rafi Alghifari]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rafi-alghifari/))
 
 ### Thanks for Visiting!
 If you have any questions or would like to collaborate, feel free to reach out!
