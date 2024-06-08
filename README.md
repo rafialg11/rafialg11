@@ -22,7 +22,7 @@ I'm an Information Systems graduate with expertise in building robust APIs using
 
 ### Let's Connect!
 - 📧 Email: raffialg11@gmail.com
-- 💼 LinkedIn: [Rafi Alghifari](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rafi-alghifari/)
+- 💼 LinkedIn: [Rafi Alghifari](https://linkedin.com/in/rafi-alghifari])
 
 ### Languages and Tools 🛠️
 
