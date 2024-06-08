@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>  
-  <img src="https://komarev.com/ghpvc/?username=rafialg11&style=flat-square&color=blue" alt=""/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>    
 </div>
+<img src="https://komarev.com/ghpvc/?username=rafialg11&style=flat-square&color=blue" alt=""/>
 
 ## Hi, I'm Rafi! 👋
 I'm an Information Systems graduate with expertise in building robust APIs using Golang. I'm also proficient in full-stack website development using the MERN stack. I'm passionate about utilizing technology to solve real-world challenges and create seamless digital experiences.
@@ -16,7 +16,7 @@ I'm an Information Systems graduate with expertise in building robust APIs using
 ### Let's Connect!
 - 📧 Email: raffialg11@gmail.com
 - 💼 LinkedIn: [Rafi Alghifari](https://linkedin.com/in/rafi-alghifari)
-
+---
 ### Languages and Tools 🛠️
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>&nbsp;
@@ -27,8 +27,6 @@ I'm an Information Systems graduate with expertise in building robust APIs using
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Golang" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="30" height="30"/>&nbsp;
-
----
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rafialg11&theme=dark&background=000000)](https://git.io/streak-stats)
